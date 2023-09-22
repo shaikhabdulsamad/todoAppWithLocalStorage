@@ -132,19 +132,7 @@ button{
 	border-radius: 0 5px 5px 0;
 	margin-left: 1px;
 }
-/* .editBtn
-{
-	flex: 1;
-} */
-/* .addTime{
-	
-	float: right;
-	font-size: 8px;
-	color: grey;
-	margin-top: 20px;
-	margin-right: 5px;
-	margin-bottom: 2px;
-} */
+
 .saveBtn{
 	display: none;
 }
