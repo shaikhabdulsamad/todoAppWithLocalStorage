@@ -28,7 +28,7 @@ body{
 }
 .head h1{
 	margin: 0px;
-	padding:20px 0;
+	padding:20px 0 10px 0;
 	font-size: 28px;
 	color: white;
 }
@@ -183,6 +183,12 @@ button{
 	.container{
 		width: 100%;
 		border-radius: 0px;
+	}
+
+	.head{
+	
+		width: 100%;
+		
 	}
 	
 	#todoList li{
