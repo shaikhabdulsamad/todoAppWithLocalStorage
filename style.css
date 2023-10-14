@@ -90,6 +90,7 @@ background-color: var(--second);
 color: white;
 border: none;
 outline: none;
+font-weight: 700;
 }
 .filter-btns button:hover{
 	background-color: var(--third);
